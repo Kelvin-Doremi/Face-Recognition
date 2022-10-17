@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<root>
+  <cameraConfig>
+    <camera_id>0</camera_id>
+  </cameraConfig>
+  <ipuConfig>
+    <service_ip_address>192.168.3.2</service_ip_address>
+    <service_ip_port>8080</service_ip_port>
+    <client_ip_address>192.168.3.3</client_ip_address>
+    <client_ip_port>6666</client_ip_port>
+    <mode>realtime</mode>
+    <ModelSelect>YOLO_V3</ModelSelect>
+    <picture_path>C:\Users\15772\Desktop\train2</picture_path>
+    <picture_size>640 × 480</picture_size>
+  </ipuConfig>
+</root>

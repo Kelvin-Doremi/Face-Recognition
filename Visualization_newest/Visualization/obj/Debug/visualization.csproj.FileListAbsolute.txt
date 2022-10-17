@@ -1,0 +1,695 @@
+C:\Users\15772\Desktop\Camera Test\My程序\visualization\visualization\bin\Debug\visualization.exe.config
+C:\Users\15772\Desktop\Camera Test\My程序\visualization\visualization\bin\Debug\visualization.exe
+C:\Users\15772\Desktop\Camera Test\My程序\visualization\visualization\bin\Debug\visualization.pdb
+C:\Users\15772\Desktop\Camera Test\My程序\visualization\visualization\obj\Debug\visualization.MainForm.resources
+C:\Users\15772\Desktop\Camera Test\My程序\visualization\visualization\obj\Debug\visualization.Properties.Resources.resources
+C:\Users\15772\Desktop\Camera Test\My程序\visualization\visualization\obj\Debug\visualization.Options.resources
+C:\Users\15772\Desktop\Camera Test\My程序\visualization\visualization\obj\Debug\visualization.csproj.GenerateResource.Cache
+C:\Users\15772\Desktop\Camera Test\My程序\visualization\visualization\obj\Debug\visualization.exe
+C:\Users\15772\Desktop\Camera Test\My程序\visualization\visualization\obj\Debug\visualization.pdb
+C:\Users\15772\Desktop\Camera Test\My程序\visualization\visualization\obj\Debug\visualization.csprojResolveAssemblyReference.cache
+C:\Users\15772\Desktop\Camera Test\My程序\visualization\visualization\obj\Debug\visualization.CameraSetting.resources
+C:\Users\15772\Desktop\Camera Test\My程序\visualization\visualization\obj\Debug\visualization.IPUSetting.resources
+C:\Users\15772\Desktop\Camera Test\My程序\visualization\visualization\obj\Debug\visualization.UserManagement.resources
+C:\Users\15772\Desktop\Camera Test\My程序\visualization\visualization\obj\Debug\visualization.ModelUpdate.resources
+C:\Users\15772\Desktop\计算所\海康SDK\Camera Test\My程序\visualization\visualization\bin\Debug\visualization.exe.config
+C:\Users\15772\Desktop\计算所\海康SDK\Camera Test\My程序\visualization\visualization\obj\Debug\visualization.exe
+C:\Users\15772\Desktop\计算所\海康SDK\Camera Test\My程序\visualization\visualization\obj\Debug\visualization.pdb
+C:\Users\15772\Desktop\计算所\海康SDK\Camera Test\My程序\visualization\visualization\bin\Debug\visualization.exe
+C:\Users\15772\Desktop\计算所\海康SDK\Camera Test\My程序\visualization\visualization\bin\Debug\visualization.pdb
+C:\Users\15772\Desktop\计算所\海康SDK\Camera Test\My程序\visualization\visualization\obj\Debug\visualization.csprojResolveAssemblyReference.cache
+C:\Users\15772\Desktop\计算所\海康SDK\Camera Test\My程序\visualization\visualization\obj\Debug\visualization.MainForm.resources
+C:\Users\15772\Desktop\计算所\海康SDK\Camera Test\My程序\visualization\visualization\obj\Debug\visualization.IPUSetting.resources
+C:\Users\15772\Desktop\计算所\海康SDK\Camera Test\My程序\visualization\visualization\obj\Debug\visualization.ModelUpdate.resources
+C:\Users\15772\Desktop\计算所\海康SDK\Camera Test\My程序\visualization\visualization\obj\Debug\visualization.UserManagement.resources
+C:\Users\15772\Desktop\计算所\海康SDK\Camera Test\My程序\visualization\visualization\obj\Debug\visualization.Properties.Resources.resources
+C:\Users\15772\Desktop\计算所\海康SDK\Camera Test\My程序\visualization\visualization\obj\Debug\visualization.Options.resources
+C:\Users\15772\Desktop\计算所\海康SDK\Camera Test\My程序\visualization\visualization\obj\Debug\visualization.CameraSetting.resources
+C:\Users\15772\Desktop\计算所\海康SDK\Camera Test\My程序\visualization\visualization\obj\Debug\visualization.csproj.GenerateResource.Cache
+C:\Users\15772\Desktop\计算所\海康SDK\Camera Test\My程序\visualization\visualization\bin\Debug\Emgu.CV.UI.dll
+C:\Users\15772\Desktop\计算所\海康SDK\Camera Test\My程序\visualization\visualization\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Users\15772\Desktop\计算所\海康SDK\Camera Test\My程序\visualization\visualization\bin\Debug\Emgu.CV.World.dll
+C:\Users\15772\Desktop\计算所\海康SDK\Camera Test\My程序\visualization\visualization\bin\Debug\OpenTK.dll
+C:\Users\15772\Desktop\计算所\海康SDK\Camera Test\My程序\visualization\visualization\bin\Debug\OpenTK.GLControl.dll
+C:\Users\15772\Desktop\计算所\海康SDK\Camera Test\My程序\visualization\visualization\bin\Debug\ZedGraph.dll
+C:\Users\15772\Desktop\计算所\海康SDK\Camera Test\My程序\visualization\visualization\bin\Debug\Emgu.CV.UI.xml
+C:\Users\15772\Desktop\计算所\海康SDK\Camera Test\My程序\visualization\visualization\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\15772\Desktop\计算所\海康SDK\Camera Test\My程序\visualization\visualization\bin\Debug\Emgu.CV.World.xml
+C:\Users\15772\Desktop\计算所\海康SDK\Camera Test\My程序\visualization\visualization\bin\Debug\OpenTK.xml
+C:\Users\15772\Desktop\计算所\海康SDK\Camera Test\My程序\visualization\visualization\bin\Debug\OpenTK.GLControl.xml
+C:\Users\15772\Desktop\计算所\海康SDK\Camera Test\My程序\visualization\visualization\bin\Debug\ZedGraph.xml
+C:\Users\15772\Desktop\计算所\海康SDK\Camera Test\My程序\visualization\visualization\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\15772\Desktop\计算所\海康SDK\Camera Test\My程序\visualization\visualization\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\15772\Desktop\计算所\海康SDK\Camera Test\My程序\visualization\visualization\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\15772\Desktop\计算所\海康SDK\Camera Test\My程序\visualization\visualization\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\15772\Desktop\计算所\海康SDK\Camera Test\My程序\visualization\visualization\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\15772\Desktop\计算所\海康SDK\Camera Test\My程序\visualization\visualization\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\15772\Desktop\计算所\海康SDK\Camera Test\My程序\visualization\visualization\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\15772\Desktop\计算所\海康SDK\Camera Test\My程序\visualization\visualization\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\15772\Desktop\计算所\海康SDK\Camera Test\My程序\visualization\visualization\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\15772\Desktop\计算所\海康SDK\Camera Test\My程序\visualization\visualization\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\15772\Desktop\计算所\海康SDK\Camera Test\My程序\visualization\visualization\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\15772\Desktop\计算所\海康SDK\Camera Test\My程序\visualization\visualization\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\15772\Desktop\计算所\海康SDK\Camera Test\My程序\visualization\visualization\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\15772\Desktop\计算所\海康SDK\Camera Test\My程序\visualization\visualization\bin\Debug\Renci.SshNet.dll
+C:\Users\15772\Desktop\计算所\海康SDK\Camera Test\My程序\visualization\visualization\bin\Debug\Renci.SshNet.xml
+C:\Users\15772\Desktop\计算所\Programming\海康SDK\My程序\visualization\visualization\bin\Debug\visualization.exe.config
+C:\Users\15772\Desktop\计算所\Programming\海康SDK\My程序\visualization\visualization\obj\Debug\visualization.exe
+C:\Users\15772\Desktop\计算所\Programming\海康SDK\My程序\visualization\visualization\obj\Debug\visualization.pdb
+C:\Users\15772\Desktop\计算所\Programming\海康SDK\My程序\visualization\visualization\bin\Debug\Visualization.exe
+C:\Users\15772\Desktop\计算所\Programming\海康SDK\My程序\visualization\visualization\bin\Debug\Visualization.pdb
+C:\Users\15772\Desktop\计算所\Programming\海康SDK\My程序\visualization\visualization\bin\Debug\Emgu.CV.UI.dll
+C:\Users\15772\Desktop\计算所\Programming\海康SDK\My程序\visualization\visualization\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Users\15772\Desktop\计算所\Programming\海康SDK\My程序\visualization\visualization\bin\Debug\Emgu.CV.World.dll
+C:\Users\15772\Desktop\计算所\Programming\海康SDK\My程序\visualization\visualization\bin\Debug\OpenTK.dll
+C:\Users\15772\Desktop\计算所\Programming\海康SDK\My程序\visualization\visualization\bin\Debug\OpenTK.GLControl.dll
+C:\Users\15772\Desktop\计算所\Programming\海康SDK\My程序\visualization\visualization\bin\Debug\Renci.SshNet.dll
+C:\Users\15772\Desktop\计算所\Programming\海康SDK\My程序\visualization\visualization\bin\Debug\ZedGraph.dll
+C:\Users\15772\Desktop\计算所\Programming\海康SDK\My程序\visualization\visualization\bin\Debug\Emgu.CV.UI.xml
+C:\Users\15772\Desktop\计算所\Programming\海康SDK\My程序\visualization\visualization\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\15772\Desktop\计算所\Programming\海康SDK\My程序\visualization\visualization\bin\Debug\Emgu.CV.World.xml
+C:\Users\15772\Desktop\计算所\Programming\海康SDK\My程序\visualization\visualization\bin\Debug\OpenTK.xml
+C:\Users\15772\Desktop\计算所\Programming\海康SDK\My程序\visualization\visualization\bin\Debug\OpenTK.GLControl.xml
+C:\Users\15772\Desktop\计算所\Programming\海康SDK\My程序\visualization\visualization\bin\Debug\Renci.SshNet.xml
+C:\Users\15772\Desktop\计算所\Programming\海康SDK\My程序\visualization\visualization\bin\Debug\ZedGraph.xml
+C:\Users\15772\Desktop\计算所\Programming\海康SDK\My程序\visualization\visualization\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\15772\Desktop\计算所\Programming\海康SDK\My程序\visualization\visualization\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\15772\Desktop\计算所\Programming\海康SDK\My程序\visualization\visualization\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\15772\Desktop\计算所\Programming\海康SDK\My程序\visualization\visualization\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\15772\Desktop\计算所\Programming\海康SDK\My程序\visualization\visualization\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\15772\Desktop\计算所\Programming\海康SDK\My程序\visualization\visualization\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\15772\Desktop\计算所\Programming\海康SDK\My程序\visualization\visualization\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\15772\Desktop\计算所\Programming\海康SDK\My程序\visualization\visualization\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\15772\Desktop\计算所\Programming\海康SDK\My程序\visualization\visualization\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\15772\Desktop\计算所\Programming\海康SDK\My程序\visualization\visualization\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\15772\Desktop\计算所\Programming\海康SDK\My程序\visualization\visualization\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\15772\Desktop\计算所\Programming\海康SDK\My程序\visualization\visualization\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\15772\Desktop\计算所\Programming\海康SDK\My程序\visualization\visualization\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\15772\Desktop\计算所\Programming\海康SDK\My程序\visualization\visualization\obj\Debug\visualization.csprojResolveAssemblyReference.cache
+C:\Users\15772\Desktop\计算所\Programming\海康SDK\My程序\visualization\visualization\obj\Debug\visualization.MainForm.resources
+C:\Users\15772\Desktop\计算所\Programming\海康SDK\My程序\visualization\visualization\obj\Debug\visualization.IPUSetting.resources
+C:\Users\15772\Desktop\计算所\Programming\海康SDK\My程序\visualization\visualization\obj\Debug\visualization.ModelUpdate.resources
+C:\Users\15772\Desktop\计算所\Programming\海康SDK\My程序\visualization\visualization\obj\Debug\visualization.UserManagement.resources
+C:\Users\15772\Desktop\计算所\Programming\海康SDK\My程序\visualization\visualization\obj\Debug\Visualization.Properties.Resources.resources
+C:\Users\15772\Desktop\计算所\Programming\海康SDK\My程序\visualization\visualization\obj\Debug\visualization.Options.resources
+C:\Users\15772\Desktop\计算所\Programming\海康SDK\My程序\visualization\visualization\obj\Debug\visualization.CameraSetting.resources
+C:\Users\15772\Desktop\计算所\Programming\海康SDK\My程序\visualization\visualization\obj\Debug\visualization.csproj.GenerateResource.Cache
+C:\Users\15772\Desktop\计算所\Programming\可视化系统\My程序\Visualization\visualization\bin\Debug\Visualization.exe.config
+C:\Users\15772\Desktop\计算所\Programming\可视化系统\My程序\Visualization\visualization\obj\Debug\Visualization.exe
+C:\Users\15772\Desktop\计算所\Programming\可视化系统\My程序\Visualization\visualization\obj\Debug\Visualization.pdb
+C:\Users\15772\Desktop\计算所\Programming\可视化系统\My程序\Visualization\visualization\bin\Debug\Visualization.exe
+C:\Users\15772\Desktop\计算所\Programming\可视化系统\My程序\Visualization\visualization\bin\Debug\Visualization.pdb
+C:\Users\15772\Desktop\计算所\Programming\可视化系统\My程序\Visualization\visualization\bin\Debug\Emgu.CV.UI.dll
+C:\Users\15772\Desktop\计算所\Programming\可视化系统\My程序\Visualization\visualization\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Users\15772\Desktop\计算所\Programming\可视化系统\My程序\Visualization\visualization\bin\Debug\Emgu.CV.World.dll
+C:\Users\15772\Desktop\计算所\Programming\可视化系统\My程序\Visualization\visualization\bin\Debug\OpenTK.dll
+C:\Users\15772\Desktop\计算所\Programming\可视化系统\My程序\Visualization\visualization\bin\Debug\OpenTK.GLControl.dll
+C:\Users\15772\Desktop\计算所\Programming\可视化系统\My程序\Visualization\visualization\bin\Debug\Renci.SshNet.dll
+C:\Users\15772\Desktop\计算所\Programming\可视化系统\My程序\Visualization\visualization\bin\Debug\ZedGraph.dll
+C:\Users\15772\Desktop\计算所\Programming\可视化系统\My程序\Visualization\visualization\bin\Debug\Emgu.CV.UI.xml
+C:\Users\15772\Desktop\计算所\Programming\可视化系统\My程序\Visualization\visualization\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\15772\Desktop\计算所\Programming\可视化系统\My程序\Visualization\visualization\bin\Debug\Emgu.CV.World.xml
+C:\Users\15772\Desktop\计算所\Programming\可视化系统\My程序\Visualization\visualization\bin\Debug\OpenTK.xml
+C:\Users\15772\Desktop\计算所\Programming\可视化系统\My程序\Visualization\visualization\bin\Debug\OpenTK.GLControl.xml
+C:\Users\15772\Desktop\计算所\Programming\可视化系统\My程序\Visualization\visualization\bin\Debug\Renci.SshNet.xml
+C:\Users\15772\Desktop\计算所\Programming\可视化系统\My程序\Visualization\visualization\bin\Debug\ZedGraph.xml
+C:\Users\15772\Desktop\计算所\Programming\可视化系统\My程序\Visualization\visualization\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\15772\Desktop\计算所\Programming\可视化系统\My程序\Visualization\visualization\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\15772\Desktop\计算所\Programming\可视化系统\My程序\Visualization\visualization\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\15772\Desktop\计算所\Programming\可视化系统\My程序\Visualization\visualization\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\15772\Desktop\计算所\Programming\可视化系统\My程序\Visualization\visualization\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\15772\Desktop\计算所\Programming\可视化系统\My程序\Visualization\visualization\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\15772\Desktop\计算所\Programming\可视化系统\My程序\Visualization\visualization\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\15772\Desktop\计算所\Programming\可视化系统\My程序\Visualization\visualization\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\15772\Desktop\计算所\Programming\可视化系统\My程序\Visualization\visualization\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\15772\Desktop\计算所\Programming\可视化系统\My程序\Visualization\visualization\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\15772\Desktop\计算所\Programming\可视化系统\My程序\Visualization\visualization\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\15772\Desktop\计算所\Programming\可视化系统\My程序\Visualization\visualization\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\15772\Desktop\计算所\Programming\可视化系统\My程序\Visualization\visualization\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\15772\Desktop\计算所\Programming\可视化系统\My程序\Visualization\visualization\obj\Debug\Visualization.csprojResolveAssemblyReference.cache
+C:\Users\15772\Desktop\计算所\Programming\可视化系统\My程序\Visualization\visualization\obj\Debug\visualization.IPUSetting.resources
+C:\Users\15772\Desktop\计算所\Programming\可视化系统\My程序\Visualization\visualization\obj\Debug\visualization.ModelUpdate.resources
+C:\Users\15772\Desktop\计算所\Programming\可视化系统\My程序\Visualization\visualization\obj\Debug\visualization.UserManagement.resources
+C:\Users\15772\Desktop\计算所\Programming\可视化系统\My程序\Visualization\visualization\obj\Debug\Visualization.Properties.Resources.resources
+C:\Users\15772\Desktop\计算所\Programming\可视化系统\My程序\Visualization\visualization\obj\Debug\visualization.Options.resources
+C:\Users\15772\Desktop\计算所\Programming\可视化系统\My程序\Visualization\visualization\obj\Debug\visualization.CameraSetting.resources
+C:\Users\15772\Desktop\计算所\Programming\可视化系统\My程序\Visualization\visualization\obj\Debug\Visualization.csproj.GenerateResource.Cache
+C:\Users\15772\Desktop\计算所\Programming\可视化系统\My程序\Visualization\visualization\obj\Debug\visualization.MainForm.resources
+C:\Users\15772\Desktop\计算所\Programming\可视化系统\My程序\Visualization2\visualization\bin\Debug\Visualization.exe.config
+C:\Users\15772\Desktop\计算所\Programming\可视化系统\My程序\Visualization2\visualization\obj\Debug\Visualization.exe
+C:\Users\15772\Desktop\计算所\Programming\可视化系统\My程序\Visualization2\visualization\obj\Debug\Visualization.pdb
+C:\Users\15772\Desktop\计算所\Programming\可视化系统\My程序\Visualization2\visualization\obj\Debug\Visualization.csprojResolveAssemblyReference.cache
+C:\Users\15772\Desktop\计算所\Programming\可视化系统\My程序\Visualization2\visualization\obj\Debug\visualization.MainForm.resources
+C:\Users\15772\Desktop\计算所\Programming\可视化系统\My程序\Visualization2\visualization\obj\Debug\visualization.IPUSetting.resources
+C:\Users\15772\Desktop\计算所\Programming\可视化系统\My程序\Visualization2\visualization\obj\Debug\visualization.ModelUpdate.resources
+C:\Users\15772\Desktop\计算所\Programming\可视化系统\My程序\Visualization2\visualization\obj\Debug\visualization.UserManagement.resources
+C:\Users\15772\Desktop\计算所\Programming\可视化系统\My程序\Visualization2\visualization\obj\Debug\Visualization.Properties.Resources.resources
+C:\Users\15772\Desktop\计算所\Programming\可视化系统\My程序\Visualization2\visualization\obj\Debug\visualization.Options.resources
+C:\Users\15772\Desktop\计算所\Programming\可视化系统\My程序\Visualization2\visualization\obj\Debug\visualization.CameraSetting.resources
+C:\Users\15772\Desktop\计算所\Programming\可视化系统\My程序\Visualization2\visualization\obj\Debug\Visualization.csproj.GenerateResource.Cache
+C:\Users\15772\Desktop\计算所\Programming\可视化系统\My程序\Visualization2\visualization\bin\Debug\Visualization.exe
+C:\Users\15772\Desktop\计算所\Programming\可视化系统\My程序\Visualization2\visualization\bin\Debug\Visualization.pdb
+C:\Users\15772\Desktop\计算所\Programming\可视化系统\My程序\Visualization2\visualization\bin\Debug\Emgu.CV.UI.dll
+C:\Users\15772\Desktop\计算所\Programming\可视化系统\My程序\Visualization2\visualization\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Users\15772\Desktop\计算所\Programming\可视化系统\My程序\Visualization2\visualization\bin\Debug\Emgu.CV.World.dll
+C:\Users\15772\Desktop\计算所\Programming\可视化系统\My程序\Visualization2\visualization\bin\Debug\OpenTK.dll
+C:\Users\15772\Desktop\计算所\Programming\可视化系统\My程序\Visualization2\visualization\bin\Debug\OpenTK.GLControl.dll
+C:\Users\15772\Desktop\计算所\Programming\可视化系统\My程序\Visualization2\visualization\bin\Debug\Renci.SshNet.dll
+C:\Users\15772\Desktop\计算所\Programming\可视化系统\My程序\Visualization2\visualization\bin\Debug\ZedGraph.dll
+C:\Users\15772\Desktop\计算所\Programming\可视化系统\My程序\Visualization2\visualization\bin\Debug\Emgu.CV.UI.xml
+C:\Users\15772\Desktop\计算所\Programming\可视化系统\My程序\Visualization2\visualization\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\15772\Desktop\计算所\Programming\可视化系统\My程序\Visualization2\visualization\bin\Debug\Emgu.CV.World.xml
+C:\Users\15772\Desktop\计算所\Programming\可视化系统\My程序\Visualization2\visualization\bin\Debug\OpenTK.xml
+C:\Users\15772\Desktop\计算所\Programming\可视化系统\My程序\Visualization2\visualization\bin\Debug\OpenTK.GLControl.xml
+C:\Users\15772\Desktop\计算所\Programming\可视化系统\My程序\Visualization2\visualization\bin\Debug\Renci.SshNet.xml
+C:\Users\15772\Desktop\计算所\Programming\可视化系统\My程序\Visualization2\visualization\bin\Debug\ZedGraph.xml
+C:\Users\15772\Desktop\计算所\Programming\可视化系统\My程序\Visualization2\visualization\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\15772\Desktop\计算所\Programming\可视化系统\My程序\Visualization2\visualization\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\15772\Desktop\计算所\Programming\可视化系统\My程序\Visualization2\visualization\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\15772\Desktop\计算所\Programming\可视化系统\My程序\Visualization2\visualization\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\15772\Desktop\计算所\Programming\可视化系统\My程序\Visualization2\visualization\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\15772\Desktop\计算所\Programming\可视化系统\My程序\Visualization2\visualization\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\15772\Desktop\计算所\Programming\可视化系统\My程序\Visualization2\visualization\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\15772\Desktop\计算所\Programming\可视化系统\My程序\Visualization2\visualization\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\15772\Desktop\计算所\Programming\可视化系统\My程序\Visualization2\visualization\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\15772\Desktop\计算所\Programming\可视化系统\My程序\Visualization2\visualization\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\15772\Desktop\计算所\Programming\可视化系统\My程序\Visualization2\visualization\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\15772\Desktop\计算所\Programming\可视化系统\My程序\Visualization2\visualization\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\15772\Desktop\计算所\Programming\可视化系统\My程序\Visualization2\visualization\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\15772\Desktop\计算所\Programming\可视化系统\My程序\Visualization3\visualization\bin\Debug\Visualization.exe.config
+C:\Users\15772\Desktop\计算所\Programming\可视化系统\My程序\Visualization3\visualization\obj\Debug\Visualization.exe
+C:\Users\15772\Desktop\计算所\Programming\可视化系统\My程序\Visualization3\visualization\obj\Debug\Visualization.pdb
+C:\Users\15772\Desktop\计算所\Programming\可视化系统\My程序\Visualization3\visualization\obj\Debug\Visualization.csprojResolveAssemblyReference.cache
+C:\Users\15772\Desktop\计算所\Programming\可视化系统\My程序\Visualization3\visualization\obj\Debug\visualization.MainForm.resources
+C:\Users\15772\Desktop\计算所\Programming\可视化系统\My程序\Visualization3\visualization\obj\Debug\visualization.IPUSetting.resources
+C:\Users\15772\Desktop\计算所\Programming\可视化系统\My程序\Visualization3\visualization\obj\Debug\visualization.ModelUpdate.resources
+C:\Users\15772\Desktop\计算所\Programming\可视化系统\My程序\Visualization3\visualization\obj\Debug\visualization.UserManagement.resources
+C:\Users\15772\Desktop\计算所\Programming\可视化系统\My程序\Visualization3\visualization\obj\Debug\Visualization.Properties.Resources.resources
+C:\Users\15772\Desktop\计算所\Programming\可视化系统\My程序\Visualization3\visualization\obj\Debug\visualization.Options.resources
+C:\Users\15772\Desktop\计算所\Programming\可视化系统\My程序\Visualization3\visualization\obj\Debug\visualization.CameraSetting.resources
+C:\Users\15772\Desktop\计算所\Programming\可视化系统\My程序\Visualization3\visualization\obj\Debug\Visualization.csproj.GenerateResource.Cache
+C:\Users\15772\Desktop\计算所\Programming\可视化系统\My程序\Visualization3\visualization\bin\Debug\Visualization.exe
+C:\Users\15772\Desktop\计算所\Programming\可视化系统\My程序\Visualization3\visualization\bin\Debug\Visualization.pdb
+C:\Users\15772\Desktop\计算所\Programming\可视化系统\My程序\Visualization3\visualization\bin\Debug\Emgu.CV.UI.dll
+C:\Users\15772\Desktop\计算所\Programming\可视化系统\My程序\Visualization3\visualization\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Users\15772\Desktop\计算所\Programming\可视化系统\My程序\Visualization3\visualization\bin\Debug\Emgu.CV.World.dll
+C:\Users\15772\Desktop\计算所\Programming\可视化系统\My程序\Visualization3\visualization\bin\Debug\OpenTK.dll
+C:\Users\15772\Desktop\计算所\Programming\可视化系统\My程序\Visualization3\visualization\bin\Debug\OpenTK.GLControl.dll
+C:\Users\15772\Desktop\计算所\Programming\可视化系统\My程序\Visualization3\visualization\bin\Debug\Renci.SshNet.dll
+C:\Users\15772\Desktop\计算所\Programming\可视化系统\My程序\Visualization3\visualization\bin\Debug\ZedGraph.dll
+C:\Users\15772\Desktop\计算所\Programming\可视化系统\My程序\Visualization3\visualization\bin\Debug\Emgu.CV.UI.xml
+C:\Users\15772\Desktop\计算所\Programming\可视化系统\My程序\Visualization3\visualization\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\15772\Desktop\计算所\Programming\可视化系统\My程序\Visualization3\visualization\bin\Debug\Emgu.CV.World.xml
+C:\Users\15772\Desktop\计算所\Programming\可视化系统\My程序\Visualization3\visualization\bin\Debug\OpenTK.xml
+C:\Users\15772\Desktop\计算所\Programming\可视化系统\My程序\Visualization3\visualization\bin\Debug\OpenTK.GLControl.xml
+C:\Users\15772\Desktop\计算所\Programming\可视化系统\My程序\Visualization3\visualization\bin\Debug\Renci.SshNet.xml
+C:\Users\15772\Desktop\计算所\Programming\可视化系统\My程序\Visualization3\visualization\bin\Debug\ZedGraph.xml
+C:\Users\15772\Desktop\计算所\Programming\可视化系统\My程序\Visualization3\visualization\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\15772\Desktop\计算所\Programming\可视化系统\My程序\Visualization3\visualization\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\15772\Desktop\计算所\Programming\可视化系统\My程序\Visualization3\visualization\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\15772\Desktop\计算所\Programming\可视化系统\My程序\Visualization3\visualization\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\15772\Desktop\计算所\Programming\可视化系统\My程序\Visualization3\visualization\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\15772\Desktop\计算所\Programming\可视化系统\My程序\Visualization3\visualization\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\15772\Desktop\计算所\Programming\可视化系统\My程序\Visualization3\visualization\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\15772\Desktop\计算所\Programming\可视化系统\My程序\Visualization3\visualization\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\15772\Desktop\计算所\Programming\可视化系统\My程序\Visualization3\visualization\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\15772\Desktop\计算所\Programming\可视化系统\My程序\Visualization3\visualization\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\15772\Desktop\计算所\Programming\可视化系统\My程序\Visualization3\visualization\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\15772\Desktop\计算所\Programming\可视化系统\My程序\Visualization3\visualization\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\15772\Desktop\计算所\Programming\可视化系统\My程序\Visualization3\visualization\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Administrator\Desktop\Visualization\Visualization3\visualization\bin\Debug\Visualization.exe.config
+C:\Users\Administrator\Desktop\Visualization\Visualization3\visualization\obj\Debug\Visualization.exe
+C:\Users\Administrator\Desktop\Visualization\Visualization3\visualization\obj\Debug\Visualization.pdb
+C:\Users\Administrator\Desktop\Visualization\Visualization3\visualization\bin\Debug\Visualization.exe
+C:\Users\Administrator\Desktop\Visualization\Visualization3\visualization\bin\Debug\Visualization.pdb
+C:\Users\Administrator\Desktop\Visualization\Visualization3\visualization\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Administrator\Desktop\Visualization\Visualization3\visualization\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Users\Administrator\Desktop\Visualization\Visualization3\visualization\bin\Debug\Emgu.CV.World.dll
+C:\Users\Administrator\Desktop\Visualization\Visualization3\visualization\bin\Debug\OpenTK.dll
+C:\Users\Administrator\Desktop\Visualization\Visualization3\visualization\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Administrator\Desktop\Visualization\Visualization3\visualization\bin\Debug\Renci.SshNet.dll
+C:\Users\Administrator\Desktop\Visualization\Visualization3\visualization\bin\Debug\ZedGraph.dll
+C:\Users\Administrator\Desktop\Visualization\Visualization3\visualization\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Administrator\Desktop\Visualization\Visualization3\visualization\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\Administrator\Desktop\Visualization\Visualization3\visualization\bin\Debug\Emgu.CV.World.xml
+C:\Users\Administrator\Desktop\Visualization\Visualization3\visualization\bin\Debug\OpenTK.xml
+C:\Users\Administrator\Desktop\Visualization\Visualization3\visualization\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Administrator\Desktop\Visualization\Visualization3\visualization\bin\Debug\Renci.SshNet.xml
+C:\Users\Administrator\Desktop\Visualization\Visualization3\visualization\bin\Debug\ZedGraph.xml
+C:\Users\Administrator\Desktop\Visualization\Visualization3\visualization\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Administrator\Desktop\Visualization\Visualization3\visualization\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Administrator\Desktop\Visualization\Visualization3\visualization\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Administrator\Desktop\Visualization\Visualization3\visualization\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Administrator\Desktop\Visualization\Visualization3\visualization\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Administrator\Desktop\Visualization\Visualization3\visualization\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Administrator\Desktop\Visualization\Visualization3\visualization\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Administrator\Desktop\Visualization\Visualization3\visualization\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Administrator\Desktop\Visualization\Visualization3\visualization\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Administrator\Desktop\Visualization\Visualization3\visualization\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Administrator\Desktop\Visualization\Visualization3\visualization\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Administrator\Desktop\Visualization\Visualization3\visualization\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Administrator\Desktop\Visualization\Visualization3\visualization\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Administrator\Desktop\Visualization\Visualization3\visualization\obj\Debug\Visualization.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Visualization\Visualization3\visualization\obj\Debug\visualization.MainForm.resources
+C:\Users\Administrator\Desktop\Visualization\Visualization3\visualization\obj\Debug\visualization.IPUSetting.resources
+C:\Users\Administrator\Desktop\Visualization\Visualization3\visualization\obj\Debug\visualization.ModelUpdate.resources
+C:\Users\Administrator\Desktop\Visualization\Visualization3\visualization\obj\Debug\visualization.UserManagement.resources
+C:\Users\Administrator\Desktop\Visualization\Visualization3\visualization\obj\Debug\Visualization.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Visualization\Visualization3\visualization\obj\Debug\visualization.Options.resources
+C:\Users\Administrator\Desktop\Visualization\Visualization3\visualization\obj\Debug\visualization.CameraSetting.resources
+C:\Users\Administrator\Desktop\Visualization\Visualization3\visualization\obj\Debug\Visualization.csproj.GenerateResource.Cache
+D:\U盘\My Desktop\Visualization\Visualization3\visualization\bin\Debug\Visualization.exe.config
+D:\U盘\My Desktop\Visualization\Visualization3\visualization\obj\Debug\Visualization.exe
+D:\U盘\My Desktop\Visualization\Visualization3\visualization\obj\Debug\Visualization.pdb
+D:\U盘\My Desktop\Visualization\Visualization3\visualization\bin\Debug\Visualization.exe
+D:\U盘\My Desktop\Visualization\Visualization3\visualization\bin\Debug\Visualization.pdb
+D:\U盘\My Desktop\Visualization\Visualization3\visualization\bin\Debug\Emgu.CV.UI.dll
+D:\U盘\My Desktop\Visualization\Visualization3\visualization\bin\Debug\Emgu.CV.UI.GL.dll
+D:\U盘\My Desktop\Visualization\Visualization3\visualization\bin\Debug\Emgu.CV.World.dll
+D:\U盘\My Desktop\Visualization\Visualization3\visualization\bin\Debug\OpenTK.dll
+D:\U盘\My Desktop\Visualization\Visualization3\visualization\bin\Debug\OpenTK.GLControl.dll
+D:\U盘\My Desktop\Visualization\Visualization3\visualization\bin\Debug\Renci.SshNet.dll
+D:\U盘\My Desktop\Visualization\Visualization3\visualization\bin\Debug\ZedGraph.dll
+D:\U盘\My Desktop\Visualization\Visualization3\visualization\bin\Debug\Emgu.CV.UI.xml
+D:\U盘\My Desktop\Visualization\Visualization3\visualization\bin\Debug\Emgu.CV.UI.GL.xml
+D:\U盘\My Desktop\Visualization\Visualization3\visualization\bin\Debug\Emgu.CV.World.xml
+D:\U盘\My Desktop\Visualization\Visualization3\visualization\bin\Debug\OpenTK.xml
+D:\U盘\My Desktop\Visualization\Visualization3\visualization\bin\Debug\OpenTK.GLControl.xml
+D:\U盘\My Desktop\Visualization\Visualization3\visualization\bin\Debug\Renci.SshNet.xml
+D:\U盘\My Desktop\Visualization\Visualization3\visualization\bin\Debug\ZedGraph.xml
+D:\U盘\My Desktop\Visualization\Visualization3\visualization\bin\Debug\de\ZedGraph.resources.dll
+D:\U盘\My Desktop\Visualization\Visualization3\visualization\bin\Debug\es\ZedGraph.resources.dll
+D:\U盘\My Desktop\Visualization\Visualization3\visualization\bin\Debug\fr\ZedGraph.resources.dll
+D:\U盘\My Desktop\Visualization\Visualization3\visualization\bin\Debug\hu\ZedGraph.resources.dll
+D:\U盘\My Desktop\Visualization\Visualization3\visualization\bin\Debug\it\ZedGraph.resources.dll
+D:\U盘\My Desktop\Visualization\Visualization3\visualization\bin\Debug\ja\ZedGraph.resources.dll
+D:\U盘\My Desktop\Visualization\Visualization3\visualization\bin\Debug\pt\ZedGraph.resources.dll
+D:\U盘\My Desktop\Visualization\Visualization3\visualization\bin\Debug\ru\ZedGraph.resources.dll
+D:\U盘\My Desktop\Visualization\Visualization3\visualization\bin\Debug\sk\ZedGraph.resources.dll
+D:\U盘\My Desktop\Visualization\Visualization3\visualization\bin\Debug\sv\ZedGraph.resources.dll
+D:\U盘\My Desktop\Visualization\Visualization3\visualization\bin\Debug\tr\ZedGraph.resources.dll
+D:\U盘\My Desktop\Visualization\Visualization3\visualization\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\U盘\My Desktop\Visualization\Visualization3\visualization\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\U盘\My Desktop\Visualization\Visualization3\visualization\obj\Debug\Visualization.csprojResolveAssemblyReference.cache
+D:\U盘\My Desktop\Visualization\Visualization3\visualization\obj\Debug\visualization.MainForm.resources
+D:\U盘\My Desktop\Visualization\Visualization3\visualization\obj\Debug\visualization.IPUSetting.resources
+D:\U盘\My Desktop\Visualization\Visualization3\visualization\obj\Debug\visualization.ModelUpdate.resources
+D:\U盘\My Desktop\Visualization\Visualization3\visualization\obj\Debug\visualization.UserManagement.resources
+D:\U盘\My Desktop\Visualization\Visualization3\visualization\obj\Debug\Visualization.Properties.Resources.resources
+D:\U盘\My Desktop\Visualization\Visualization3\visualization\obj\Debug\visualization.Options.resources
+D:\U盘\My Desktop\Visualization\Visualization3\visualization\obj\Debug\visualization.CameraSetting.resources
+D:\U盘\My Desktop\Visualization\Visualization3\visualization\obj\Debug\Visualization.csproj.GenerateResource.Cache
+C:\Users\15772\Desktop\Visualization\Visualization3\visualization\bin\Debug\Visualization.exe.config
+C:\Users\15772\Desktop\Visualization\Visualization3\visualization\obj\Debug\Visualization.exe
+C:\Users\15772\Desktop\Visualization\Visualization3\visualization\obj\Debug\Visualization.pdb
+C:\Users\15772\Desktop\Visualization\Visualization3\visualization\bin\Debug\Visualization.exe
+C:\Users\15772\Desktop\Visualization\Visualization3\visualization\bin\Debug\Visualization.pdb
+C:\Users\15772\Desktop\Visualization\Visualization3\visualization\bin\Debug\Emgu.CV.UI.dll
+C:\Users\15772\Desktop\Visualization\Visualization3\visualization\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Users\15772\Desktop\Visualization\Visualization3\visualization\bin\Debug\Emgu.CV.World.dll
+C:\Users\15772\Desktop\Visualization\Visualization3\visualization\bin\Debug\OpenTK.dll
+C:\Users\15772\Desktop\Visualization\Visualization3\visualization\bin\Debug\OpenTK.GLControl.dll
+C:\Users\15772\Desktop\Visualization\Visualization3\visualization\bin\Debug\Renci.SshNet.dll
+C:\Users\15772\Desktop\Visualization\Visualization3\visualization\bin\Debug\ZedGraph.dll
+C:\Users\15772\Desktop\Visualization\Visualization3\visualization\bin\Debug\Emgu.CV.UI.xml
+C:\Users\15772\Desktop\Visualization\Visualization3\visualization\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\15772\Desktop\Visualization\Visualization3\visualization\bin\Debug\Emgu.CV.World.xml
+C:\Users\15772\Desktop\Visualization\Visualization3\visualization\bin\Debug\OpenTK.xml
+C:\Users\15772\Desktop\Visualization\Visualization3\visualization\bin\Debug\OpenTK.GLControl.xml
+C:\Users\15772\Desktop\Visualization\Visualization3\visualization\bin\Debug\Renci.SshNet.xml
+C:\Users\15772\Desktop\Visualization\Visualization3\visualization\bin\Debug\ZedGraph.xml
+C:\Users\15772\Desktop\Visualization\Visualization3\visualization\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\15772\Desktop\Visualization\Visualization3\visualization\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\15772\Desktop\Visualization\Visualization3\visualization\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\15772\Desktop\Visualization\Visualization3\visualization\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\15772\Desktop\Visualization\Visualization3\visualization\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\15772\Desktop\Visualization\Visualization3\visualization\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\15772\Desktop\Visualization\Visualization3\visualization\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\15772\Desktop\Visualization\Visualization3\visualization\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\15772\Desktop\Visualization\Visualization3\visualization\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\15772\Desktop\Visualization\Visualization3\visualization\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\15772\Desktop\Visualization\Visualization3\visualization\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\15772\Desktop\Visualization\Visualization3\visualization\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\15772\Desktop\Visualization\Visualization3\visualization\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\15772\Desktop\Visualization\Visualization3\visualization\obj\Debug\Visualization.csprojResolveAssemblyReference.cache
+C:\Users\15772\Desktop\Visualization\Visualization3\visualization\obj\Debug\visualization.MainForm.resources
+C:\Users\15772\Desktop\Visualization\Visualization3\visualization\obj\Debug\visualization.IPUSetting.resources
+C:\Users\15772\Desktop\Visualization\Visualization3\visualization\obj\Debug\visualization.ModelUpdate.resources
+C:\Users\15772\Desktop\Visualization\Visualization3\visualization\obj\Debug\visualization.UserManagement.resources
+C:\Users\15772\Desktop\Visualization\Visualization3\visualization\obj\Debug\Visualization.Properties.Resources.resources
+C:\Users\15772\Desktop\Visualization\Visualization3\visualization\obj\Debug\visualization.Options.resources
+C:\Users\15772\Desktop\Visualization\Visualization3\visualization\obj\Debug\visualization.CameraSetting.resources
+C:\Users\15772\Desktop\Visualization\Visualization3\visualization\obj\Debug\Visualization.csproj.GenerateResource.Cache
+C:\Users\15772\Desktop\Programme\Visualization\Visualization3\visualization\bin\Debug\Visualization.exe.config
+C:\Users\15772\Desktop\Programme\Visualization\Visualization3\visualization\obj\Debug\Visualization.exe
+C:\Users\15772\Desktop\Programme\Visualization\Visualization3\visualization\obj\Debug\Visualization.pdb
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization3\visualization\bin\Debug\Visualization.exe.config
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization3\visualization\obj\Debug\Visualization.exe
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization3\visualization\obj\Debug\Visualization.pdb
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization3\visualization\bin\Debug\Visualization.exe
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization3\visualization\bin\Debug\Visualization.pdb
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization3\visualization\bin\Debug\Emgu.CV.UI.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization3\visualization\bin\Debug\Emgu.CV.UI.GL.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization3\visualization\bin\Debug\Emgu.CV.World.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization3\visualization\bin\Debug\OpenTK.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization3\visualization\bin\Debug\OpenTK.GLControl.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization3\visualization\bin\Debug\Renci.SshNet.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization3\visualization\bin\Debug\ZedGraph.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization3\visualization\bin\Debug\Emgu.CV.UI.xml
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization3\visualization\bin\Debug\Emgu.CV.UI.GL.xml
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization3\visualization\bin\Debug\Emgu.CV.World.xml
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization3\visualization\bin\Debug\OpenTK.xml
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization3\visualization\bin\Debug\OpenTK.GLControl.xml
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization3\visualization\bin\Debug\Renci.SshNet.xml
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization3\visualization\bin\Debug\ZedGraph.xml
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization3\visualization\bin\Debug\de\ZedGraph.resources.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization3\visualization\bin\Debug\es\ZedGraph.resources.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization3\visualization\bin\Debug\fr\ZedGraph.resources.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization3\visualization\bin\Debug\hu\ZedGraph.resources.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization3\visualization\bin\Debug\it\ZedGraph.resources.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization3\visualization\bin\Debug\ja\ZedGraph.resources.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization3\visualization\bin\Debug\pt\ZedGraph.resources.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization3\visualization\bin\Debug\ru\ZedGraph.resources.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization3\visualization\bin\Debug\sk\ZedGraph.resources.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization3\visualization\bin\Debug\sv\ZedGraph.resources.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization3\visualization\bin\Debug\tr\ZedGraph.resources.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization3\visualization\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization3\visualization\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization3\visualization\obj\Debug\Visualization.csprojResolveAssemblyReference.cache
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization3\visualization\obj\Debug\visualization.MainForm.resources
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization3\visualization\obj\Debug\visualization.IPUSetting.resources
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization3\visualization\obj\Debug\visualization.ModelUpdate.resources
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization3\visualization\obj\Debug\visualization.UserManagement.resources
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization3\visualization\obj\Debug\Visualization.Properties.Resources.resources
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization3\visualization\obj\Debug\visualization.Options.resources
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization3\visualization\obj\Debug\visualization.CameraSetting.resources
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization3\visualization\obj\Debug\Visualization.csproj.GenerateResource.Cache
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization\visualization\bin\Debug\Visualization.exe.config
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization\visualization\obj\Debug\Visualization.exe
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization\visualization\obj\Debug\Visualization.pdb
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization\visualization\obj\Debug\Visualization.csprojResolveAssemblyReference.cache
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization\visualization\obj\Debug\visualization.MainForm.resources
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization\visualization\obj\Debug\visualization.IPUSetting.resources
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization\visualization\obj\Debug\visualization.ModelUpdate.resources
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization\visualization\obj\Debug\visualization.UserManagement.resources
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization\visualization\obj\Debug\Visualization.Properties.Resources.resources
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization\visualization\obj\Debug\visualization.Options.resources
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization\visualization\obj\Debug\visualization.CameraSetting.resources
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization\visualization\obj\Debug\Visualization.csproj.GenerateResource.Cache
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization\visualization\bin\Debug\Visualization.exe
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization\visualization\bin\Debug\Visualization.pdb
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization\visualization\bin\Debug\Emgu.CV.UI.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization\visualization\bin\Debug\Emgu.CV.World.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization\visualization\bin\Debug\OpenTK.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization\visualization\bin\Debug\OpenTK.GLControl.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization\visualization\bin\Debug\Renci.SshNet.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization\visualization\bin\Debug\ZedGraph.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization\visualization\bin\Debug\Emgu.CV.UI.xml
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization\visualization\bin\Debug\Emgu.CV.World.xml
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization\visualization\bin\Debug\OpenTK.xml
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization\visualization\bin\Debug\OpenTK.GLControl.xml
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization\visualization\bin\Debug\Renci.SshNet.xml
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization\visualization\bin\Debug\ZedGraph.xml
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization\visualization\bin\Debug\de\ZedGraph.resources.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization\visualization\bin\Debug\es\ZedGraph.resources.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization\visualization\bin\Debug\fr\ZedGraph.resources.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization\visualization\bin\Debug\hu\ZedGraph.resources.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization\visualization\bin\Debug\it\ZedGraph.resources.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization\visualization\bin\Debug\ja\ZedGraph.resources.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization\visualization\bin\Debug\pt\ZedGraph.resources.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization\visualization\bin\Debug\ru\ZedGraph.resources.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization\visualization\bin\Debug\sk\ZedGraph.resources.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization\visualization\bin\Debug\sv\ZedGraph.resources.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization\visualization\bin\Debug\tr\ZedGraph.resources.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization\visualization\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization\visualization\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization\visualization\bin\Debug\x64\concrt140.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization\visualization\bin\Debug\x64\cvextern.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization\visualization\bin\Debug\x64\msvcp140.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization\visualization\bin\Debug\x64\vcruntime140.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization\visualization\bin\Debug\x86\concrt140.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization\visualization\bin\Debug\x86\cvextern.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization\visualization\bin\Debug\x86\msvcp140.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization\visualization\bin\Debug\x86\vcruntime140.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization\visualization\bin\Debug\x64\opencv_videoio_ffmpeg411_64.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization\visualization\bin\Debug\x86\opencv_videoio_ffmpeg411.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - test\visualization\bin\Debug\Visualization.exe.config
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - test\visualization\obj\Debug\Visualization.exe
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - test\visualization\obj\Debug\Visualization.pdb
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - test\visualization\bin\Debug\x64\concrt140.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - test\visualization\bin\Debug\x64\cvextern.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - test\visualization\bin\Debug\x64\msvcp140.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - test\visualization\bin\Debug\x64\opencv_videoio_ffmpeg411_64.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - test\visualization\bin\Debug\x64\vcruntime140.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - test\visualization\bin\Debug\x86\concrt140.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - test\visualization\bin\Debug\x86\cvextern.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - test\visualization\bin\Debug\x86\msvcp140.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - test\visualization\bin\Debug\x86\opencv_videoio_ffmpeg411.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - test\visualization\bin\Debug\x86\vcruntime140.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - test\visualization\bin\Debug\Visualization.exe
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - test\visualization\bin\Debug\Visualization.pdb
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - test\visualization\bin\Debug\Emgu.CV.UI.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - test\visualization\bin\Debug\Emgu.CV.World.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - test\visualization\bin\Debug\OpenTK.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - test\visualization\bin\Debug\OpenTK.GLControl.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - test\visualization\bin\Debug\Renci.SshNet.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - test\visualization\bin\Debug\ZedGraph.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - test\visualization\bin\Debug\Emgu.CV.UI.xml
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - test\visualization\bin\Debug\Emgu.CV.World.xml
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - test\visualization\bin\Debug\OpenTK.xml
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - test\visualization\bin\Debug\OpenTK.GLControl.xml
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - test\visualization\bin\Debug\Renci.SshNet.xml
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - test\visualization\bin\Debug\ZedGraph.xml
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - test\visualization\bin\Debug\de\ZedGraph.resources.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - test\visualization\bin\Debug\es\ZedGraph.resources.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - test\visualization\bin\Debug\fr\ZedGraph.resources.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - test\visualization\bin\Debug\hu\ZedGraph.resources.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - test\visualization\bin\Debug\it\ZedGraph.resources.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - test\visualization\bin\Debug\ja\ZedGraph.resources.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - test\visualization\bin\Debug\pt\ZedGraph.resources.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - test\visualization\bin\Debug\ru\ZedGraph.resources.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - test\visualization\bin\Debug\sk\ZedGraph.resources.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - test\visualization\bin\Debug\sv\ZedGraph.resources.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - test\visualization\bin\Debug\tr\ZedGraph.resources.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - test\visualization\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - test\visualization\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - test\visualization\obj\Debug\Visualization.csprojResolveAssemblyReference.cache
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - test\visualization\obj\Debug\visualization.MainForm.resources
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - test\visualization\obj\Debug\visualization.IPUSetting.resources
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - test\visualization\obj\Debug\visualization.ModelUpdate.resources
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - test\visualization\obj\Debug\visualization.UserManagement.resources
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - test\visualization\obj\Debug\Visualization.Properties.Resources.resources
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - test\visualization\obj\Debug\visualization.Options.resources
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - test\visualization\obj\Debug\visualization.CameraSetting.resources
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - test\visualization\obj\Debug\Visualization.csproj.GenerateResource.Cache
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - new\visualization\bin\Debug\Visualization.exe.config
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - new\visualization\obj\Debug\Visualization.exe
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - new\visualization\obj\Debug\Visualization.pdb
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - new\visualization\obj\Debug\Visualization.csprojResolveAssemblyReference.cache
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - new\visualization\obj\Debug\visualization.MainForm.resources
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - new\visualization\obj\Debug\visualization.IPUSetting.resources
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - new\visualization\obj\Debug\visualization.ModelUpdate.resources
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - new\visualization\obj\Debug\visualization.UserManagement.resources
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - new\visualization\obj\Debug\Visualization.Properties.Resources.resources
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - new\visualization\obj\Debug\visualization.Options.resources
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - new\visualization\obj\Debug\visualization.CameraSetting.resources
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - new\visualization\obj\Debug\Visualization.csproj.GenerateResource.Cache
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - new\visualization\bin\Debug\x64\concrt140.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - new\visualization\bin\Debug\x64\cvextern.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - new\visualization\bin\Debug\x64\msvcp140.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - new\visualization\bin\Debug\x64\opencv_videoio_ffmpeg411_64.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - new\visualization\bin\Debug\x64\vcruntime140.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - new\visualization\bin\Debug\x86\concrt140.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - new\visualization\bin\Debug\x86\cvextern.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - new\visualization\bin\Debug\x86\msvcp140.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - new\visualization\bin\Debug\x86\opencv_videoio_ffmpeg411.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - new\visualization\bin\Debug\x86\vcruntime140.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - new\visualization\bin\Debug\Visualization.exe
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - new\visualization\bin\Debug\Visualization.pdb
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - new\visualization\bin\Debug\Emgu.CV.UI.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - new\visualization\bin\Debug\Emgu.CV.World.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - new\visualization\bin\Debug\OpenTK.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - new\visualization\bin\Debug\OpenTK.GLControl.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - new\visualization\bin\Debug\Renci.SshNet.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - new\visualization\bin\Debug\ZedGraph.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - new\visualization\bin\Debug\Emgu.CV.UI.xml
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - new\visualization\bin\Debug\Emgu.CV.World.xml
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - new\visualization\bin\Debug\OpenTK.xml
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - new\visualization\bin\Debug\OpenTK.GLControl.xml
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - new\visualization\bin\Debug\Renci.SshNet.xml
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - new\visualization\bin\Debug\ZedGraph.xml
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - new\visualization\bin\Debug\de\ZedGraph.resources.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - new\visualization\bin\Debug\es\ZedGraph.resources.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - new\visualization\bin\Debug\fr\ZedGraph.resources.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - new\visualization\bin\Debug\hu\ZedGraph.resources.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - new\visualization\bin\Debug\it\ZedGraph.resources.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - new\visualization\bin\Debug\ja\ZedGraph.resources.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - new\visualization\bin\Debug\pt\ZedGraph.resources.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - new\visualization\bin\Debug\ru\ZedGraph.resources.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - new\visualization\bin\Debug\sk\ZedGraph.resources.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - new\visualization\bin\Debug\sv\ZedGraph.resources.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - new\visualization\bin\Debug\tr\ZedGraph.resources.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - new\visualization\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - new\visualization\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - newest\visualization\bin\Debug\Visualization.exe.config
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - newest\visualization\obj\Debug\Visualization.exe
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - newest\visualization\obj\Debug\Visualization.pdb
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - newest\visualization\obj\Debug\Visualization.csprojResolveAssemblyReference.cache
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - newest\visualization\obj\Debug\visualization.MainForm.resources
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - newest\visualization\obj\Debug\visualization.IPUSetting.resources
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - newest\visualization\obj\Debug\visualization.ModelUpdate.resources
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - newest\visualization\obj\Debug\visualization.UserManagement.resources
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - newest\visualization\obj\Debug\Visualization.Properties.Resources.resources
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - newest\visualization\obj\Debug\visualization.Options.resources
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - newest\visualization\obj\Debug\visualization.CameraSetting.resources
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - newest\visualization\obj\Debug\Visualization.csproj.GenerateResource.Cache
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - newest\visualization\bin\Debug\x64\concrt140.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - newest\visualization\bin\Debug\x64\cvextern.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - newest\visualization\bin\Debug\x64\msvcp140.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - newest\visualization\bin\Debug\x64\opencv_videoio_ffmpeg411_64.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - newest\visualization\bin\Debug\x64\vcruntime140.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - newest\visualization\bin\Debug\x86\concrt140.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - newest\visualization\bin\Debug\x86\cvextern.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - newest\visualization\bin\Debug\x86\msvcp140.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - newest\visualization\bin\Debug\x86\opencv_videoio_ffmpeg411.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - newest\visualization\bin\Debug\x86\vcruntime140.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - newest\visualization\bin\Debug\Visualization.exe
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - newest\visualization\bin\Debug\Visualization.pdb
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - newest\visualization\bin\Debug\Emgu.CV.UI.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - newest\visualization\bin\Debug\Emgu.CV.World.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - newest\visualization\bin\Debug\OpenTK.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - newest\visualization\bin\Debug\OpenTK.GLControl.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - newest\visualization\bin\Debug\Renci.SshNet.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - newest\visualization\bin\Debug\ZedGraph.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - newest\visualization\bin\Debug\Emgu.CV.UI.xml
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - newest\visualization\bin\Debug\Emgu.CV.World.xml
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - newest\visualization\bin\Debug\OpenTK.xml
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - newest\visualization\bin\Debug\OpenTK.GLControl.xml
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - newest\visualization\bin\Debug\Renci.SshNet.xml
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - newest\visualization\bin\Debug\ZedGraph.xml
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - newest\visualization\bin\Debug\de\ZedGraph.resources.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - newest\visualization\bin\Debug\es\ZedGraph.resources.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - newest\visualization\bin\Debug\fr\ZedGraph.resources.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - newest\visualization\bin\Debug\hu\ZedGraph.resources.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - newest\visualization\bin\Debug\it\ZedGraph.resources.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - newest\visualization\bin\Debug\ja\ZedGraph.resources.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - newest\visualization\bin\Debug\pt\ZedGraph.resources.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - newest\visualization\bin\Debug\ru\ZedGraph.resources.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - newest\visualization\bin\Debug\sk\ZedGraph.resources.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - newest\visualization\bin\Debug\sv\ZedGraph.resources.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - newest\visualization\bin\Debug\tr\ZedGraph.resources.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - newest\visualization\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - newest\visualization\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - newest\visualization\bin\Debug\Visualization.exe.manifest
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - newest\visualization\bin\Debug\Visualization.application
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - newest\visualization\obj\Debug\Visualization.exe.manifest
+D:\Documents\计算所\Programming\可视化系统\My程序\Visualization - newest\visualization\obj\Debug\Visualization.application
+\\DESKTOP-ASUS\Documents\My Documents\Documents Union\大四\大四 毕业设计\!!!程序源码\Visualization - newest\visualization\bin\Debug\Visualization.exe.config
+\\DESKTOP-ASUS\Documents\My Documents\Documents Union\大四\大四 毕业设计\!!!程序源码\Visualization - newest\visualization\obj\Debug\Visualization.exe
+\\DESKTOP-ASUS\Documents\My Documents\Documents Union\大四\大四 毕业设计\!!!程序源码\Visualization - newest\visualization\obj\Debug\Visualization.pdb
+D:\Documents\My Documents\Documents Union\大四\大四 毕业设计\!!!程序源码\Visualization - newest\visualization\bin\Debug\x64\concrt140.dll
+D:\Documents\My Documents\Documents Union\大四\大四 毕业设计\!!!程序源码\Visualization - newest\visualization\bin\Debug\x64\cvextern.dll
+D:\Documents\My Documents\Documents Union\大四\大四 毕业设计\!!!程序源码\Visualization - newest\visualization\bin\Debug\x64\msvcp140.dll
+D:\Documents\My Documents\Documents Union\大四\大四 毕业设计\!!!程序源码\Visualization - newest\visualization\bin\Debug\x64\opencv_videoio_ffmpeg411_64.dll
+D:\Documents\My Documents\Documents Union\大四\大四 毕业设计\!!!程序源码\Visualization - newest\visualization\bin\Debug\x64\vcruntime140.dll
+D:\Documents\My Documents\Documents Union\大四\大四 毕业设计\!!!程序源码\Visualization - newest\visualization\bin\Debug\x86\concrt140.dll
+D:\Documents\My Documents\Documents Union\大四\大四 毕业设计\!!!程序源码\Visualization - newest\visualization\bin\Debug\x86\cvextern.dll
+D:\Documents\My Documents\Documents Union\大四\大四 毕业设计\!!!程序源码\Visualization - newest\visualization\bin\Debug\x86\msvcp140.dll
+D:\Documents\My Documents\Documents Union\大四\大四 毕业设计\!!!程序源码\Visualization - newest\visualization\bin\Debug\x86\opencv_videoio_ffmpeg411.dll
+D:\Documents\My Documents\Documents Union\大四\大四 毕业设计\!!!程序源码\Visualization - newest\visualization\bin\Debug\x86\vcruntime140.dll
+D:\Documents\My Documents\Documents Union\大四\大四 毕业设计\!!!程序源码\Visualization - newest\visualization\bin\Debug\Visualization.exe.config
+D:\Documents\My Documents\Documents Union\大四\大四 毕业设计\!!!程序源码\Visualization - newest\visualization\bin\Debug\Visualization.exe.manifest
+D:\Documents\My Documents\Documents Union\大四\大四 毕业设计\!!!程序源码\Visualization - newest\visualization\bin\Debug\Visualization.application
+D:\Documents\My Documents\Documents Union\大四\大四 毕业设计\!!!程序源码\Visualization - newest\visualization\bin\Debug\Visualization.exe
+D:\Documents\My Documents\Documents Union\大四\大四 毕业设计\!!!程序源码\Visualization - newest\visualization\bin\Debug\Visualization.pdb
+D:\Documents\My Documents\Documents Union\大四\大四 毕业设计\!!!程序源码\Visualization - newest\visualization\bin\Debug\Emgu.CV.UI.dll
+D:\Documents\My Documents\Documents Union\大四\大四 毕业设计\!!!程序源码\Visualization - newest\visualization\bin\Debug\Emgu.CV.World.dll
+D:\Documents\My Documents\Documents Union\大四\大四 毕业设计\!!!程序源码\Visualization - newest\visualization\bin\Debug\OpenTK.dll
+D:\Documents\My Documents\Documents Union\大四\大四 毕业设计\!!!程序源码\Visualization - newest\visualization\bin\Debug\OpenTK.GLControl.dll
+D:\Documents\My Documents\Documents Union\大四\大四 毕业设计\!!!程序源码\Visualization - newest\visualization\bin\Debug\Renci.SshNet.dll
+D:\Documents\My Documents\Documents Union\大四\大四 毕业设计\!!!程序源码\Visualization - newest\visualization\bin\Debug\ZedGraph.dll
+D:\Documents\My Documents\Documents Union\大四\大四 毕业设计\!!!程序源码\Visualization - newest\visualization\bin\Debug\Emgu.CV.UI.xml
+D:\Documents\My Documents\Documents Union\大四\大四 毕业设计\!!!程序源码\Visualization - newest\visualization\bin\Debug\Emgu.CV.World.xml
+D:\Documents\My Documents\Documents Union\大四\大四 毕业设计\!!!程序源码\Visualization - newest\visualization\bin\Debug\OpenTK.xml
+D:\Documents\My Documents\Documents Union\大四\大四 毕业设计\!!!程序源码\Visualization - newest\visualization\bin\Debug\OpenTK.GLControl.xml
+D:\Documents\My Documents\Documents Union\大四\大四 毕业设计\!!!程序源码\Visualization - newest\visualization\bin\Debug\Renci.SshNet.xml
+D:\Documents\My Documents\Documents Union\大四\大四 毕业设计\!!!程序源码\Visualization - newest\visualization\bin\Debug\ZedGraph.xml
+D:\Documents\My Documents\Documents Union\大四\大四 毕业设计\!!!程序源码\Visualization - newest\visualization\bin\Debug\de\ZedGraph.resources.dll
+D:\Documents\My Documents\Documents Union\大四\大四 毕业设计\!!!程序源码\Visualization - newest\visualization\bin\Debug\es\ZedGraph.resources.dll
+D:\Documents\My Documents\Documents Union\大四\大四 毕业设计\!!!程序源码\Visualization - newest\visualization\bin\Debug\fr\ZedGraph.resources.dll
+D:\Documents\My Documents\Documents Union\大四\大四 毕业设计\!!!程序源码\Visualization - newest\visualization\bin\Debug\hu\ZedGraph.resources.dll
+D:\Documents\My Documents\Documents Union\大四\大四 毕业设计\!!!程序源码\Visualization - newest\visualization\bin\Debug\it\ZedGraph.resources.dll
+D:\Documents\My Documents\Documents Union\大四\大四 毕业设计\!!!程序源码\Visualization - newest\visualization\bin\Debug\ja\ZedGraph.resources.dll
+D:\Documents\My Documents\Documents Union\大四\大四 毕业设计\!!!程序源码\Visualization - newest\visualization\bin\Debug\pt\ZedGraph.resources.dll
+D:\Documents\My Documents\Documents Union\大四\大四 毕业设计\!!!程序源码\Visualization - newest\visualization\bin\Debug\ru\ZedGraph.resources.dll
+D:\Documents\My Documents\Documents Union\大四\大四 毕业设计\!!!程序源码\Visualization - newest\visualization\bin\Debug\sk\ZedGraph.resources.dll
+D:\Documents\My Documents\Documents Union\大四\大四 毕业设计\!!!程序源码\Visualization - newest\visualization\bin\Debug\sv\ZedGraph.resources.dll
+D:\Documents\My Documents\Documents Union\大四\大四 毕业设计\!!!程序源码\Visualization - newest\visualization\bin\Debug\tr\ZedGraph.resources.dll
+D:\Documents\My Documents\Documents Union\大四\大四 毕业设计\!!!程序源码\Visualization - newest\visualization\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\Documents\My Documents\Documents Union\大四\大四 毕业设计\!!!程序源码\Visualization - newest\visualization\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\Documents\My Documents\Documents Union\大四\大四 毕业设计\!!!程序源码\Visualization - newest\visualization\obj\Debug\Visualization.csprojResolveAssemblyReference.cache
+D:\Documents\My Documents\Documents Union\大四\大四 毕业设计\!!!程序源码\Visualization - newest\visualization\obj\Debug\visualization.MainForm.resources
+D:\Documents\My Documents\Documents Union\大四\大四 毕业设计\!!!程序源码\Visualization - newest\visualization\obj\Debug\visualization.IPUSetting.resources
+D:\Documents\My Documents\Documents Union\大四\大四 毕业设计\!!!程序源码\Visualization - newest\visualization\obj\Debug\visualization.ModelUpdate.resources
+D:\Documents\My Documents\Documents Union\大四\大四 毕业设计\!!!程序源码\Visualization - newest\visualization\obj\Debug\visualization.UserManagement.resources
+D:\Documents\My Documents\Documents Union\大四\大四 毕业设计\!!!程序源码\Visualization - newest\visualization\obj\Debug\Visualization.Properties.Resources.resources
+D:\Documents\My Documents\Documents Union\大四\大四 毕业设计\!!!程序源码\Visualization - newest\visualization\obj\Debug\visualization.Options.resources
+D:\Documents\My Documents\Documents Union\大四\大四 毕业设计\!!!程序源码\Visualization - newest\visualization\obj\Debug\visualization.CameraSetting.resources
+D:\Documents\My Documents\Documents Union\大四\大四 毕业设计\!!!程序源码\Visualization - newest\visualization\obj\Debug\Visualization.csproj.GenerateResource.Cache
+D:\Documents\My Documents\Documents Union\大四\大四 毕业设计\!!!程序源码\Visualization - newest\visualization\obj\Debug\Visualization.exe.manifest
+D:\Documents\My Documents\Documents Union\大四\大四 毕业设计\!!!程序源码\Visualization - newest\visualization\obj\Debug\Visualization.application
+D:\Documents\My Documents\Documents Union\大四\大四 毕业设计\!!!程序源码\Visualization - newest\visualization\obj\Debug\Visualization.exe
+D:\Documents\My Documents\Documents Union\大四\大四 毕业设计\!!!程序源码\Visualization - newest\visualization\obj\Debug\Visualization.pdb
+C:\Users\Administrator\Desktop\!!!程序源码\Visualization - newest\visualization\bin\Debug\Visualization.exe.config
+C:\Users\Administrator\Desktop\!!!程序源码\Visualization - newest\visualization\obj\Debug\Visualization.exe
+C:\Users\Administrator\Desktop\!!!程序源码\Visualization - newest\visualization\obj\Debug\Visualization.pdb
+C:\Users\Administrator\Desktop\!!!程序源码\Visualization - newest\visualization\obj\Debug\Visualization.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\!!!程序源码\Visualization - newest\visualization\obj\Debug\visualization.MainForm.resources
+C:\Users\Administrator\Desktop\!!!程序源码\Visualization - newest\visualization\obj\Debug\visualization.IPUSetting.resources
+C:\Users\Administrator\Desktop\!!!程序源码\Visualization - newest\visualization\obj\Debug\visualization.ModelUpdate.resources
+C:\Users\Administrator\Desktop\!!!程序源码\Visualization - newest\visualization\obj\Debug\visualization.UserManagement.resources
+C:\Users\Administrator\Desktop\!!!程序源码\Visualization - newest\visualization\obj\Debug\Visualization.Properties.Resources.resources
+C:\Users\Administrator\Desktop\!!!程序源码\Visualization - newest\visualization\obj\Debug\visualization.Options.resources
+C:\Users\Administrator\Desktop\!!!程序源码\Visualization - newest\visualization\obj\Debug\visualization.CameraSetting.resources
+C:\Users\Administrator\Desktop\!!!程序源码\Visualization - newest\visualization\obj\Debug\Visualization.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\!!!程序源码\Visualization - newest\visualization\bin\Debug\x64\concrt140.dll
+C:\Users\Administrator\Desktop\!!!程序源码\Visualization - newest\visualization\bin\Debug\x64\cvextern.dll
+C:\Users\Administrator\Desktop\!!!程序源码\Visualization - newest\visualization\bin\Debug\x64\msvcp140.dll
+C:\Users\Administrator\Desktop\!!!程序源码\Visualization - newest\visualization\bin\Debug\x64\opencv_videoio_ffmpeg411_64.dll
+C:\Users\Administrator\Desktop\!!!程序源码\Visualization - newest\visualization\bin\Debug\x64\vcruntime140.dll
+C:\Users\Administrator\Desktop\!!!程序源码\Visualization - newest\visualization\bin\Debug\x86\concrt140.dll
+C:\Users\Administrator\Desktop\!!!程序源码\Visualization - newest\visualization\bin\Debug\x86\cvextern.dll
+C:\Users\Administrator\Desktop\!!!程序源码\Visualization - newest\visualization\bin\Debug\x86\msvcp140.dll
+C:\Users\Administrator\Desktop\!!!程序源码\Visualization - newest\visualization\bin\Debug\x86\opencv_videoio_ffmpeg411.dll
+C:\Users\Administrator\Desktop\!!!程序源码\Visualization - newest\visualization\bin\Debug\x86\vcruntime140.dll
+C:\Users\Administrator\Desktop\!!!程序源码\Visualization - newest\visualization\bin\Debug\Visualization.exe.manifest
+C:\Users\Administrator\Desktop\!!!程序源码\Visualization - newest\visualization\bin\Debug\Visualization.application
+C:\Users\Administrator\Desktop\!!!程序源码\Visualization - newest\visualization\bin\Debug\Visualization.exe
+C:\Users\Administrator\Desktop\!!!程序源码\Visualization - newest\visualization\bin\Debug\Visualization.pdb
+C:\Users\Administrator\Desktop\!!!程序源码\Visualization - newest\visualization\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Administrator\Desktop\!!!程序源码\Visualization - newest\visualization\bin\Debug\Emgu.CV.World.dll
+C:\Users\Administrator\Desktop\!!!程序源码\Visualization - newest\visualization\bin\Debug\OpenTK.dll
+C:\Users\Administrator\Desktop\!!!程序源码\Visualization - newest\visualization\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Administrator\Desktop\!!!程序源码\Visualization - newest\visualization\bin\Debug\Renci.SshNet.dll
+C:\Users\Administrator\Desktop\!!!程序源码\Visualization - newest\visualization\bin\Debug\ZedGraph.dll
+C:\Users\Administrator\Desktop\!!!程序源码\Visualization - newest\visualization\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Administrator\Desktop\!!!程序源码\Visualization - newest\visualization\bin\Debug\Emgu.CV.World.xml
+C:\Users\Administrator\Desktop\!!!程序源码\Visualization - newest\visualization\bin\Debug\OpenTK.xml
+C:\Users\Administrator\Desktop\!!!程序源码\Visualization - newest\visualization\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Administrator\Desktop\!!!程序源码\Visualization - newest\visualization\bin\Debug\Renci.SshNet.xml
+C:\Users\Administrator\Desktop\!!!程序源码\Visualization - newest\visualization\bin\Debug\ZedGraph.xml
+C:\Users\Administrator\Desktop\!!!程序源码\Visualization - newest\visualization\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Administrator\Desktop\!!!程序源码\Visualization - newest\visualization\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Administrator\Desktop\!!!程序源码\Visualization - newest\visualization\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Administrator\Desktop\!!!程序源码\Visualization - newest\visualization\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Administrator\Desktop\!!!程序源码\Visualization - newest\visualization\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Administrator\Desktop\!!!程序源码\Visualization - newest\visualization\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Administrator\Desktop\!!!程序源码\Visualization - newest\visualization\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Administrator\Desktop\!!!程序源码\Visualization - newest\visualization\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Administrator\Desktop\!!!程序源码\Visualization - newest\visualization\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Administrator\Desktop\!!!程序源码\Visualization - newest\visualization\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Administrator\Desktop\!!!程序源码\Visualization - newest\visualization\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Administrator\Desktop\!!!程序源码\Visualization - newest\visualization\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Administrator\Desktop\!!!程序源码\Visualization - newest\visualization\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Administrator\Desktop\!!!程序源码\Visualization - newest\visualization\obj\Debug\Visualization.exe.manifest
+C:\Users\Administrator\Desktop\!!!程序源码\Visualization - newest\visualization\obj\Debug\Visualization.application
