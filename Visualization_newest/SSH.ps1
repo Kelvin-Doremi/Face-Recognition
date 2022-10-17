@@ -1,1 +1,0 @@
-ssh -p 47075 kelvin@kelvindoremi.uicp.io
